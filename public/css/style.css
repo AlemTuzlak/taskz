@@ -1,0 +1,160 @@
+html, body {
+    background-image: url("/images/pattern1.png");
+    background-color: rgba(0,0,0,0.2);
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 500;
+    height: 100vh;
+    margin: 0;
+}
+.py-4{
+    background-color: rgba(0,0,0,0.5);
+    height: 100vh;
+}
+img{
+    max-height: 163px;
+    min-height: 163px;
+}
+.ma0{
+    margin: 0 !important;
+}
+.full-width{
+    width: 100%
+}
+.done{
+    background-image: url("/images/done.jpg");
+}
+.undone{
+    background-image: url("/images/undone.jpg");
+}
+.w45{
+    width: 45px;
+}
+
+a{
+    color: inherit;
+    font-family: 'Staatliches', cursive;
+}
+p, span{
+    font-family: 'Staatliches', cursive;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Anton', sans-serif;
+    font-weight: 800 !important;
+}
+.board-title{
+    font-weight: 600;
+}
+.app{
+    background-image: url("/images/pattern.png") !important;
+}
+.silver-border{
+    border: 1px solid rgba(0, 0, 0, 0.125) !important;
+}
+.mg0{
+    margin: 0!important;
+}
+.pd0{
+    padding: 0 !important;
+}
+.pd10{
+    padding: 10px;
+}
+.text-center{
+    text-align: center;
+}
+.full-height {
+    height: 100vh;
+}
+.pull-right{
+    float: right;
+}
+.pull-left{
+    float: left;
+}
+.mt5{
+    margin-top:5px;
+}
+.mb5{
+    margin-bottom: 5px;
+}
+.primary-border{
+    border: 1px solid #dc3545 !important;
+}
+.mb30{
+    margin-bottom: 30px;
+}
+.mt30{
+    margin-top: 30px;
+}
+
+.inline{
+    display: inline-block;
+}
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.background-shade{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.5);
+}
+.background-transparent{
+    background-color: rgba(0,0,0,0.7);
+}
+.no-border{
+    border: 2px solid black!important;
+}
+.pd0{
+    padding: 0 !important;
+}
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+.get-started{
+    border: 1px solid black;
+    padding: 20px;
+    color: black;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: "Helvetica Neue";
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-transition: background-color 1s ease-out;
+    -moz-transition: background-color 1s ease-out;
+    -o-transition: background-color 1s ease-out;
+    transition: background-color 1s ease-out;
+}
+.get-started:hover{
+    border: 1px solid white;
+    color: white;
+    background-color: black;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
