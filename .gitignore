@@ -9,3 +9,10 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+resources/views/modals/boards/card.blade.php
+resources/views/modals/boards/home.blade.php
+resources/views/modals/boards/index.blade.php
+resources/views/card.blade.php
+resources/views/home.blade.php
+resources/views/card.blade.php
+resources/views/home.blade.php
